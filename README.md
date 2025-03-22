@@ -8,6 +8,6 @@
   <li><b>Hobbies:</b> 📚Book (Science, Philosophy, Science-history) | 🌳Planting and farming</li>
 </ul>
 
-<img src="/_img/python.gif" height=2rem alt="python"/>
+<img src="/_img/python.gif" height=20rem alt="python"/>
 
 <h2>Under develop. Comming soon ....</h2>

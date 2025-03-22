@@ -2,6 +2,10 @@
 <h3 align="center">Researcher in Computational Material Science 👨‍💻 </h3>
 <hr/>
 <h2> About</h2>
+<ul>
+  <li><b> Work:</b>Thermoelectricity</li>
+  <li></li>
+</ul>
 
 
 

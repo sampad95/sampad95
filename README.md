@@ -4,8 +4,8 @@
 <h2> About</h2>
 <ul>
   <li><b>Work:</b>🌡️Thermoelectricity</li>
-  <li><b>Future Plan:<b/> Piezoelectricity, Ferroelectricity</li>
-  <li><b>Hobies:</b> 📚Book (Science, Philosophy, Science-history) reading | 🌳Planting and farming</li>
+  <li><b>Future Plan:<b/> Piezoelectricity | Ferroelectricity</li>
+  <li><b>Hobbies:</b> 📚Book (Science, Philosophy, Science-history) | 🌳Planting and farming</li>
 </ul>
 
 

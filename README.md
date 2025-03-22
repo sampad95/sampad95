@@ -1,5 +1,5 @@
-<h1 align="center"> Hey 🙋‍♂️, I am Sampad Mandal</h1>
-<h3 align="center">Researcher in Computational Material Science 👨‍💻 </h3>
+<h1 align="center"> Hey 🙋‍♂️, I'm Sampad Mandal</h1>
+<h4 align="center">Researcher in Computational Material Science 👨‍💻 </h4>
 <hr/>
 <h2> 👨‍🎓About</h2>
 <ul>

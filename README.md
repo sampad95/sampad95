@@ -1,12 +1,12 @@
 <h1 align="center"> Hey 🙋‍♂️, I am Sampad Mandal</h1>
 <h3 align="center">Researcher in Computational Material Science 👨‍💻 </h3>
 <hr/>
-<h2> About</h2>
+<h2> 👨‍🎓About</h2>
 <ul>
   <li><b>Work:</b>🌡️Thermoelectricity</li>
   <li><b>Future Plan:<b/> Piezoelectricity | Ferroelectricity</li>
-  <li><b>Hobbies:</b> 📚Book (Science, Philosophy, Science-history, Self-help) | <br/>
-    🌳Planting and farming</li>
+  <li><b>Hobbies:</b> 📚Book (:atom: Science, Philosophy, Science-history, Self-help) | <br/>
+    🌱Planting🌳 and 👨‍🌾farming</li>
 </ul>
 
 <hr/>

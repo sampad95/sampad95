@@ -11,6 +11,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sampad95&theme=default) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sampad95&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sampad95&theme=default)
 
 <hr/>
 

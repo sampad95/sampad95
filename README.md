@@ -9,11 +9,11 @@
                       | 🌱Planting🌳 and 👨‍🌾farming</li>
 </ul>
 
-<div>
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sampad95&theme=city_lights)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sampad95&theme=city_lights)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sampad95&theme=city_lights)
-</div>
+
     
 <hr/>
 

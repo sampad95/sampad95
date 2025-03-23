@@ -27,4 +27,4 @@
   <img src="/_img/vs_code.gif" height=50rem alt="VSCode"/>
 </div>
 
-<h2>Under develop. Comming soon ....</h2>
+<h2>Under develop. Coming soon ....</h2>

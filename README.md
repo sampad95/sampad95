@@ -18,6 +18,9 @@
 <hr/>
 <h3>Reach Me</h3>
 <div>ReserachGate</div>
+
+<hr/>
+
 <div>
   <img src="/_img/js.gif" height=50rem alt="javascript"/>
   <img src="/_img/python2.gif" height=50rem alt="python"/>

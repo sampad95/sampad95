@@ -29,10 +29,10 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sampad95&label=Profile%20views&color=0e75b6&style=flat" alt="sampad95" /> </p> -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sampad95&show_icons=true&locale=en&layout=compact" alt="sampad95" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sampad95&show_icons=true&locale=en&layout=compact" alt="sampad95" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sampad95&show_icons=true&locale=en" alt="sampad95" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sampad95&show_icons=true&locale=en" alt="sampad95" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sampad95&" alt="sampad95" /></p>
+<p background_color="gray"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sampad95&" alt="sampad95" /></p>
 
 <h2>Under develop. Coming soon ....</h2>

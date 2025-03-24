@@ -16,7 +16,7 @@
 
     
 <hr/>
-<h2>Reach Me</h2>
+<h3>Reach Me</h3>
 <div>ReserachGate</div>
 <div>
   <img src="/_img/js.gif" height=50rem alt="javascript"/>

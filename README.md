@@ -33,6 +33,6 @@
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sampad95&show_icons=true&locale=en" alt="sampad95" /></p> -->
 
-<p styel="background-color: gray"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sampad95&" alt="sampad95" /></p>
+<p styel="background-color: grey"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sampad95&" alt="sampad95" /></p>
 
 <h2>Under develop. Coming soon ....</h2>

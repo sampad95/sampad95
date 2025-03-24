@@ -1,30 +1,25 @@
-<h1 align="center"> Hey 🙋‍♂️, I'm Sampad Mandal ( সম্পদ মণ্ডল )</h1>
-<h4 align="center">Researcher in Computational Material Science 👨‍💻 </h4>
-<hr/>
-<h2> 👨‍🎓About</h2>
-<ul>
-  <li><b>Work:</b>🌡️Thermoelectricity</li>
-  <li><b>Future Plan:<b/> Piezoelectricity | Ferroelectricity</li>
-  <li><b>Hobbies:</b> 📚Book (⚛️ Science🔬 | Philosophy | 🔭Science-history🛰️ | Self-help) <br/>
-                      | 🌱Planting🌳 and 👨‍🌾farming</li>
-</ul>
+<h1 align="center">Hi 👋, I'm Sampad Mandal</h1>
+<h3 align="center">Doctoral Researcher (PhD) in material science.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sampad95&label=Profile%20views&color=0e75b6&style=flat" alt="sampad95" /> </p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sampad95&theme=nord_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sampad95&theme=nord_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sampad95&theme=nord_dark)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sampad95" alt="sampad95" /></a> </p>
 
-    
-<hr/>
+- 🔭 I’m currently working on **thermoelectricity**
 
-<div>
-  <img src="/_img/js.gif" height=50rem alt="javascript"/>
-  <img src="/_img/python2.gif" height=50rem alt="python"/>
-  <img src="/_img/html.gif" height=50rem alt="HTML"/>
-  <img src="/_img/css.gif" height=50rem alt="CSS"/>
-  <img src="/_img/yaml.gif" height=50rem alt="YAML"/>
-  <img src="/_img/git.gif" height=50rem alt="git"/>
-  <img src="/_img/vs_code.gif" height=50rem alt="VSCode"/>
-</div>
+- 🌱 I’m currently learning **piezoelectricity, ferroelectricity**
 
-<h2>Under develop. Coming soon ....</h2>
+- 📫 How to reach me **mandalsampad1995@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sampad95&show_icons=true&locale=en&layout=compact" alt="sampad95" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sampad95&show_icons=true&locale=en" alt="sampad95" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sampad95&" alt="sampad95" /></p>

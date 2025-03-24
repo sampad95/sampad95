@@ -26,6 +26,8 @@
   <img src="/_img/vs_code.gif" height=50rem alt="VSCode"/>
 </div>
 
+![ResearchGate](https://www.researchgate.net/profile/Sampad-Mandal?ev=hdr_xprf)
+
 <!--
 <hr/>
 <h3>Reach Me</h3>

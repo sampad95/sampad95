@@ -14,12 +14,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sampad95&theme=nord_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sampad95&theme=nord_dark)
 
-    
-<hr/>
-<h3>Reach Me</h3>
-  <div style="background-color: aquamarine">
-    <a href="https://www.researchgate.net/profile/Sampad-Mandal?ev=hdr_xprf" target="_main"> ResearchGate</a> 
-  </div>
 <hr/>
 
 <div>
@@ -31,6 +25,14 @@
   <img src="/_img/git.gif" height=50rem alt="git"/>
   <img src="/_img/vs_code.gif" height=50rem alt="VSCode"/>
 </div>
+
+<!--
+<hr/>
+<h3>Reach Me</h3>
+  <div style="background-color: aquamarine">
+    <a href="https://www.researchgate.net/profile/Sampad-Mandal?ev=hdr_xprf" target="_main"> ResearchGate</a> 
+  </div>
+-->
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=sampad95&label=Profile%20views&color=0e75b6&style=flat" alt="sampad95" /> </p> -->
 

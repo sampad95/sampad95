@@ -35,4 +35,4 @@
 
 <!-- <p style="background-color: grey"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sampad95&" alt="sampad95" /></p> -->
 
-<h2>Under develop. Coming soon ....</h2>
+<!-- <h2>Under develop. Coming soon ....</h2> -->

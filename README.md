@@ -17,7 +17,7 @@
     
 <hr/>
 <h3>Reach Me</h3>
- <a style="color: aquamarine" href="https://www.researchgate.net/profile/Sampad-Mandal?ev=hdr_xprf" target="_main"> ResearchGate</a> 
+ <a href="https://www.researchgate.net/profile/Sampad-Mandal?ev=hdr_xprf" style="color: aquamarine;" target="_main"> ResearchGate</a> 
 
 <hr/>
 

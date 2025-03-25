@@ -11,7 +11,7 @@
 </ul>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sampad95&theme=nord_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sampad95&theme=nord_dark&exclude={Jupyter%20Notebook})
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sampad95&theme=nord_dark&exclude={Shell,Jupyter%20Notebook})
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sampad95&theme=nord_dark&exclude={Shell,Jupyter%20Notebook})
 
 

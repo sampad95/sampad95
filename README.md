@@ -5,8 +5,8 @@
 <ul>
   <li><b>Work:</b>🌡️Thermoelectricity</li>
   <li><b>Future Plan:<b/> Piezoelectricity | Ferroelectricity</li>
-  <li><b>Hobbies:</b> 📚Book (⚛️ Science🔬 | Philosophy | 🔭Science-history🛰️ | Self-help) <br/>
-                      | 🌱Planting🌳 and 👨‍🌾farming</li>
+  <li><b>Hobbies:</b> 📚Book (⚛️ Science🔬 | Philosophy | 🔭Science-history🛰️  <br/>
+    | Sciology | Self-help) | 🌱Planting🌳 and 👨‍🌾farming</li>
 </ul>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sampad95&theme=nord_dark)

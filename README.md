@@ -1,4 +1,4 @@
-<h1 align="center"> Hey 🙋‍♂️, I'm <span style="color: orange">Sampad Mandal ( সম্পদ মণ্ডল )</span></h1>
+<h1 align="center"> Hey 🙋‍♂️, I'm $${\color{Red}Sampad Mandal ( সম্পদ মণ্ডল )}$$</h1>
 <h4 align="center">Researcher in Computational Material Science 👨‍💻 </h4>
 <hr/>
 <h2> 👨‍🎓About</h2>

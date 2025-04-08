@@ -6,7 +6,7 @@
   <li><b>Work:</b>🌡️Thermoelectricity</li>
   <li><b>Future Plan:</b> Piezoelectricity | Ferroelectricity</li>
   <li><b>Hobbies:</b> 📚Book (⚛️ Science🔬 | Philosophy | 🔭Science-history🛰️  <br/>
-    | Sociology | Self-help) <br/>
+   | general history | Sociology | Self-help) <br/>
     | 🌱Planting🌳 and 👨‍🌾farming</li>
 </ul>
 

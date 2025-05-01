@@ -4,7 +4,7 @@
 <h2> 👨‍🎓About</h2>
 <ul>
   <li><b>Work:</b>🌡️Thermoelectricity</li>
-  <li><b>Future Plan:</b> Piezoelectricity | Ferroelectricity</li>
+  <li><b>Future Plan:</b> Piezoelectricity | Ferroelectricity | Energy materials</li>
   <li><b>Hobbies:</b> 📚Book (⚛️ Science🔬 | Philosophy | 🔭Science-history🛰️  <br/>
    | General history | Sociology | Self-help) <br/>
     | 🌱Planting🌳 and 👨‍🌾farming</li>

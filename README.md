@@ -10,14 +10,14 @@
     | 🌱Planting🌳 and 👨‍🌾farming</li>
 </ul>
 
-<!--
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sampad95&theme=nord_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sampad95&theme=nord_dark&exclude={Shell})
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sampad95&theme=nord_dark&exclude={Mathematica,JavaScript})
--->
+
 
 <hr/>
-
+<!--
 <div>
   <img src="/_img/js.gif" height=50rem alt="javascript"/>
   <img src="/_img/python2.gif" height=50rem alt="python"/>
@@ -27,7 +27,7 @@
   <img src="/_img/git.gif" height=50rem alt="git"/>
   <img src="/_img/vs_code.gif" height=50rem alt="VSCode"/>
 </div>
-
+-->
 <!--  ![ResearchGate](https://www.researchgate.net/profile/Sampad-Mandal?ev=hdr_xprf) -->
 
 <!--

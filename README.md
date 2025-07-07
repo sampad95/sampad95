@@ -25,7 +25,7 @@
   <img src="/_images/css.gif" width=50 alt="CSS"/>
   <img src="/_images/yaml.gif" width=80 alt="YAML"/>
   <img src="/_images/git.gif" width=105 alt="git"/>
-  <img src="/_images/vs_code.gif" width=48 alt="VSCode"/>
+  <img src="/_images/vs_code.gif" width=50 alt="VSCode"/>
 </div>
 
 <!--  ![ResearchGate](https://www.researchgate.net/profile/Sampad-Mandal?ev=hdr_xprf) -->

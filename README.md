@@ -19,7 +19,7 @@
 <hr/>
 
 <div>
-  <img src="/_img/js.gif" height=50rem alt="javascript"/>
+  <img src="/_img/js.gif" height="50" alt="javascript"/>
   <img src="/_img/python2.gif" height=50rem alt="python"/>
   <img src="/_img/html.gif" height=50rem alt="HTML"/>
   <img src="/_img/css.gif" height=50rem alt="CSS"/>

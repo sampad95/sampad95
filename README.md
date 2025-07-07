@@ -7,7 +7,7 @@
   <li><b>Future Plan:</b> Piezoelectricity | Ferroelectricity | Energy materials</li>
   <li><b>Hobbies:</b> Reading Book📚 (⚛️ Science🔬 | Philosophy | 🔭Science-history🛰️  <br/>
    | General history | Sociology | Self-help) <br/>
-    | 🌱Planting🌳 and 👨‍🌾farming</li>
+   | 🌱Planting🌳 and 👨‍🌾farming</li>
 </ul>
 
 
@@ -17,7 +17,7 @@
 
 
 <hr/>
-<!--
+
 <div>
   <img src="/_img/js.gif" height=50rem alt="javascript"/>
   <img src="/_img/python2.gif" height=50rem alt="python"/>
@@ -27,7 +27,7 @@
   <img src="/_img/git.gif" height=50rem alt="git"/>
   <img src="/_img/vs_code.gif" height=50rem alt="VSCode"/>
 </div>
--->
+
 <!--  ![ResearchGate](https://www.researchgate.net/profile/Sampad-Mandal?ev=hdr_xprf) -->
 
 <!--

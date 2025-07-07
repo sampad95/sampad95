@@ -24,7 +24,7 @@
   <img src="/_images/html.gif" width=50 alt="HTML"/>
   <img src="/_images/css.gif" width=50 alt="CSS"/>
   <img src="/_images/yaml.gif" width=80 alt="YAML"/>
-  <img src="/_images/git.gif" width=90 alt="git"/>
+  <img src="/_images/git.gif" width=100 alt="git"/>
   <img src="/_images/vs_code.gif" width=50 alt="VSCode"/>
 </div>
 

@@ -19,13 +19,13 @@
 <hr/>
 
 <div>
-  <img src="/_images/js.gif" width=50 alt="javascript"/>
-  <img src="/_images/python2.gif" height=50rem alt="python"/>
-  <img src="/_images/html.gif" height=50rem alt="HTML"/>
-  <img src="/_images/css.gif" height=50rem alt="CSS"/>
-  <img src="/_images/yaml.gif" height=50rem alt="YAML"/>
-  <img src="/_images/git.gif" height=50rem alt="git"/>
-  <img src="/_images/vs_code.gif" height=50rem alt="VSCode"/>
+  <img src="/_images/js.gif" width=50rem alt="javascript"/>
+  <img src="/_images/python2.gif" width=50rem alt="python"/>
+  <img src="/_images/html.gif" width=50rem alt="HTML"/>
+  <img src="/_images/css.gif" width=50rem alt="CSS"/>
+  <img src="/_images/yaml.gif" width=50rem alt="YAML"/>
+  <img src="/_images/git.gif" width=50rem alt="git"/>
+  <img src="/_images/vs_code.gif" width=50rem alt="VSCode"/>
 </div>
 
 <!--  ![ResearchGate](https://www.researchgate.net/profile/Sampad-Mandal?ev=hdr_xprf) -->

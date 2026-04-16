@@ -10,7 +10,7 @@
    | General history | Sociology | Self-help) <br/>
    | 🌱Planting🌳 and 👨‍🌾farming</li>
 </ul> -->
-
+<li> </ul>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sampad95&theme=nord_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sampad95&theme=nord_dark&exclude={Shell})

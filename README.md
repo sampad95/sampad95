@@ -6,10 +6,10 @@
   <li><b>Working on:</b> MLIP | Transformer </li>
   <li><b>Work Experience:</b> Density Functional Theory based calculations |🌡️Thermoelectricity</li>
   <li><b>Future Plan:</b> MLFF | LLM </li>
-  <li><b>Hobbies:</b> Reading Book📚 (⚛️ Science🔬 | Philosophy | 🔭Science-history🛰️  <br/>
+  <!-- <li><b>Hobbies:</b> Reading Book📚 (⚛️ Science🔬 | Philosophy | 🔭Science-history🛰️  <br/>
    | General history | Sociology | Self-help) <br/>
    | 🌱Planting🌳 and 👨‍🌾farming</li>
-</ul>
+</ul> -->
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sampad95&theme=nord_dark)

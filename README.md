@@ -4,7 +4,7 @@
 <h2> 👨‍🎓About</h2>
 <ul>
   <li><b>Working on:</b> MLIP | Transformer </li>
-  <li><b>Work Experience:</b> Density Functional Theory based calculations |🌡️Thermoelectricity</li>
+  <li><b>Work Experience:</b> Density Functional Theory based calculations |🌡️Thermoelectricity | Mechanochemistry </li>
   <li><b>Future Plan:</b> MLFF | LLM </li>
   <!-- <li><b>Hobbies:</b> Reading Book📚 (⚛️ Science🔬 | Philosophy | 🔭Science-history🛰️  <br/>
    | General history | Sociology | Self-help) <br/>

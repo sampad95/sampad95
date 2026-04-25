@@ -3,7 +3,7 @@
 <hr/>
 <h2> 👨‍🎓About</h2>
 <ul>
-  <li><b>Working on:</b> ... </li>
+  <li><b>Working on:</b> NN, Transformer, MLIP, ... </li>
   <li><b>Work Experience:</b> Density Functional Theory based calculations |🌡️Thermoelectricity | Mechanochemistry </li>
   <li><b>Future Plan:</b> ... </li>
   <!-- <li><b>Hobbies:</b> Reading Book📚 (⚛️ Science🔬 | Philosophy | 🔭Science-history🛰️  <br/>
